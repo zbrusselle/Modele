@@ -1,0 +1,1526 @@
+SLURM_JOBID:  119039
+SLURM_ARRAY_JOB_ID:  119038
+SLURM_ARRAY_TASK_ID:  1
+Wed Oct  2 11:35:54 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/create_fol_loc.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> Run Launcher 1
+>> >> >> Run Second_pass_go_local 1
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher1.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher10.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher11.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher12.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher13.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher14.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher15.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher16.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher17.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher18.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher19.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher2.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher20.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher21.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher22.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher23.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher24.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher25.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher26.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher27.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher28.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher29.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher3.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher30.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher31.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher32.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher33.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher34.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher35.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher36.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher37.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher38.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher39.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher4.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher40.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher41.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher42.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher43.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher44.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher45.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher46.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher47.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher48.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher49.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher5.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher50.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher6.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher7.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher8.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/media/zoe.brusselle/DATA/ScriptDesktp/Scripts/ModeleNicolas/fit/p1_condNP_Valid/res/launcher9.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher1.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher10.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher11.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher12.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher13.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher14.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher15.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher16.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher17.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher18.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher19.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher2.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher20.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher21.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher22.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher23.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher24.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher25.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher26.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher27.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher28.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher29.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher3.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher30.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher31.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher32.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher33.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher34.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher35.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher36.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher37.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher38.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher39.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher4.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher40.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher41.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher42.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher43.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher44.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher45.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher46.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher47.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher48.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher49.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher5.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher50.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher6.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher7.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher8.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher9.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+>> >> >> >> Run Launcher 1
+>> >> >> Get best Param p 1
+Best Param p1_condNP_Valid
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_1.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_10.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_100.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_101.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_102.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_103.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_104.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_105.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_106.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_107.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_108.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_109.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_11.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_110.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_111.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_112.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_113.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_114.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_115.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_116.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_117.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_118.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_119.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_12.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_120.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_121.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_122.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_123.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_124.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_125.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_126.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_127.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_128.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_129.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_13.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_130.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_131.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_132.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_133.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_134.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_135.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_136.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_137.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_138.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_139.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_14.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_140.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_141.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_142.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_143.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_144.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_145.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_146.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_147.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_148.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_149.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_15.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_150.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_151.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_152.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_153.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_154.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_155.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_156.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_157.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_158.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_159.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_16.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_160.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_161.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_162.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_163.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_164.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_165.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_166.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_167.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_168.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_169.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_17.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_170.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_171.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_172.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_173.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_174.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_175.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_176.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_177.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_178.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_179.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_18.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_180.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_181.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_182.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_183.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_184.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_185.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_186.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_187.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_188.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_189.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_19.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_190.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_191.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_192.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_193.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_194.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_195.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_196.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_197.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_198.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_199.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_2.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_20.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_200.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_21.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_22.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_23.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_24.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_25.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_26.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_27.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_28.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_29.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_3.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_30.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_31.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_32.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_33.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_34.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_35.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_36.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_37.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_38.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_39.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_4.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_40.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_41.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_42.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_43.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_44.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_45.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_46.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_47.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_48.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_49.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_5.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_50.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_51.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_52.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_53.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_54.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_55.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_56.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_57.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_58.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_59.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_6.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_60.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_61.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_62.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_63.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_64.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_65.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_66.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_67.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_68.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_69.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_7.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_70.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_71.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_72.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_73.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_74.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_75.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_76.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_77.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_78.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_79.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_8.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_80.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_81.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_82.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_83.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_84.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_85.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_86.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_87.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_88.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_89.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_9.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_90.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_91.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_92.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_93.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_94.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_95.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_96.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_97.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_98.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Valid/res/launcher_2_99.m>@(input)stat_model_go(input,'p1_condNP_Valid')] 
+[> In get_best_params (line 8)] 
+Best params:12.95775        35.5753      4742.7976
+Best Param p1_condNP_Invalid
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_1.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_10.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_100.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_101.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_102.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_103.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_104.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_105.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_106.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_107.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_108.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_109.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_11.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_110.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_111.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_112.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_113.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_114.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_115.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_116.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_117.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_118.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_119.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_12.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_120.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_121.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_122.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_123.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_124.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_125.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_126.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_127.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_128.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_129.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_13.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_130.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_131.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_132.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_133.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_134.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_135.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_136.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_137.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_138.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_139.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_14.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_140.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_141.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_142.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_143.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_144.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_145.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_146.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_147.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_148.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_149.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_15.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_150.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_151.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_152.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_153.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_154.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_155.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_156.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_157.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_158.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_159.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_16.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_160.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_161.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_162.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_163.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_164.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_165.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_166.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_167.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_168.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_169.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_17.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_170.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_171.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_172.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_173.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_174.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_175.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_176.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_177.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_178.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_179.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_18.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_180.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_181.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_182.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_183.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_184.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_185.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_186.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_187.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_188.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_189.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_19.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_190.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_191.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_192.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_193.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_194.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_195.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_196.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_197.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_198.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_199.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_2.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_20.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_200.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_21.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_22.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_23.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_24.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_25.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_26.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_27.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_28.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_29.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_3.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_30.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_31.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_32.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_33.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_34.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_35.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_36.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_37.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_38.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_39.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_4.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_40.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_41.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_42.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_43.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_44.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_45.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_46.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_47.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_48.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_49.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_5.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_50.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_51.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_52.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_53.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_54.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_55.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_56.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_57.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_58.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_59.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_6.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_60.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_61.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_62.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_63.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_64.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_65.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_66.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_67.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_68.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_69.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_7.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_70.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_71.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_72.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_73.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_74.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_75.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_76.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_77.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_78.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_79.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_8.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_80.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_81.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_82.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_83.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_84.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_85.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_86.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_87.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_88.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_89.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_9.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_90.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_91.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_92.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_93.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_94.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_95.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_96.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_97.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_98.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p1_condNP_Invalid/res/launcher_2_99.m>@(input)stat_model_go(input,'p1_condNP_Invalid')] 
+[> In get_best_params (line 8)] 
+Best params:14.8051        68.6049      4979.1989
+>> >> >> >> Wed Oct  2 11:36:26 CEST 2019
+[34m--- Analysis completed ---[0m

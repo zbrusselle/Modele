@@ -1,0 +1,64 @@
+SLURM_JOBID:  120273
+SLURM_ARRAY_JOB_ID:  120273
+SLURM_ARRAY_TASK_ID:  34
+Thu Oct  3 17:19:24 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/calc_best_param_model_parfor.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> [Warning: patID:34] 
+>> >> >> >> >> Starting parallel pool (parpool) using the 'local' profile ...
+
+{Error using parpool (line 113)
+Failed to start a parallel pool. (For information in addition to the causing
+error, validate the profile 'local' in the Cluster Profile Manager.)
+
+Caused by:
+    Error using parallel.internal.pool.InteractiveClient>iThrowWithCause (line
+    675)
+    Failed to start pool.
+        Error using
+        parallel.internal.cluster.FileStorage/addConstructorToMetadata (line
+        607)
+        The storage metadata file is corrupt. Please delete all files in the
+        JobStorageLocation and try again.
+} 
+>> >> >> {Undefined function or variable 'First_pass_go_local'.
+} 
+>> >> >> >> >> Run Launcher 34
+>> Starting parallel pool (parpool) using the 'local' profile ...
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 8 workers.
+RUN p34_condNP_Invalid launcher11
+{Error using run (line 55)
+Transparency violation error.
+ See Parallel Computing Toolbox documentation about Transparency
+} 
+>> >> >> Run Second_pass_go_local 34
+>> {Undefined function or variable 'Second_pass_go_local'.
+} 
+>> >> >> >> Run Launcher 34
+>> RUN p34_condP_Valid launcher_2_1
+RUN p34_condP_Invalid launcher_2_1
+{Error using run (line 55)
+Transparency violation error.
+ See Parallel Computing Toolbox documentation about Transparency
+} 
+>> >> >> Get best Param p 34
+>> >> >> Parallel pool using the 'local' profile is shutting down.
+>> >> >>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+Thu Oct  3 17:20:36 CEST 2019
+[34m--- Analysis completed ---[0m

@@ -1,0 +1,106 @@
+SLURM_JOBID:  119534
+SLURM_ARRAY_JOB_ID:  119523
+SLURM_ARRAY_TASK_ID:  30
+Wed Oct  2 16:40:05 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/calc_best_param_model.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> [Warning: patID:30] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> Run Launcher 30
+>> RUN p30_condNP_Valid launcher18
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher19
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher20
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher21
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher22
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher23
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher24
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher25
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher26
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher27
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher28
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher29
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher30
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher31
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher32
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher33
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher34
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher35
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher36
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher37
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher38
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher39
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher40
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher41
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher42
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher43
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher44
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher45
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher46
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher47
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher48
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher49
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Valid launcher50
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher1
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher2
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher3
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher4
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher5
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher6
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher7
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher8
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher9
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher10
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p30_condNP_Invalid launcher11
+slurmstepd: error: *** JOB 119534 ON lmb024 CANCELLED AT 2019-10-02T19:43:03 ***

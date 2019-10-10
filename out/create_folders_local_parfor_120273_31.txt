@@ -1,0 +1,121 @@
+SLURM_JOBID:  120290
+SLURM_ARRAY_JOB_ID:  120273
+SLURM_ARRAY_TASK_ID:  31
+Thu Oct  3 17:19:21 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/calc_best_param_model_parfor.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> [Warning: patID:31] 
+>> >> >> >> >> Starting parallel pool (parpool) using the 'local' profile ...
+
+{Error using parpool (line 113)
+Failed to start a parallel pool. (For information in addition to the causing
+error, validate the profile 'local' in the Cluster Profile Manager.)
+
+Caused by:
+    Error using parallel.internal.pool.InteractiveClient>iThrowWithCause (line
+    675)
+    Failed to start pool.
+        Error using
+        parallel.internal.cluster.FileStorage/addConstructorToMetadata (line
+        607)
+        The storage metadata file is corrupt. Please delete all files in the
+        JobStorageLocation and try again.
+} 
+>> >> >> {Undefined function or variable 'First_pass_go_local'.
+} 
+>> >> >> >> >> Run Launcher 31
+>> Starting parallel pool (parpool) using the 'local' profile ...
+[Warning: Variable 'autoaddclientpath' not found.] 
+[> In parallel.internal.cluster.FileSerializer>iLoadMat (line 283)
+  In parallel.internal.cluster.FileSerializer/getFields (line 100)
+  In parallel.internal.cluster.CJSSupport/getProperties (line 261)
+  In parallel.internal.cluster.CJSSupport/getJobProperties (line 472)
+  In parallel.internal.cluster.CJSJobMixin/hGetProperty (line 75)
+  In parallel.Job/preSubmit (line 540)
+  In parallel.Job/submit (line 347)
+  In parallel.internal.pool.InteractiveClient/start (line 339)
+  In parallel.Pool>iStartClient (line 772)
+  In parallel.Pool.hBuildPool (line 586)
+  In parallel.internal.pool.doParpool (line 18)
+  In parpool (line 98)
+  In parallel.internal.pool.PoolArrayManager.getOrAutoCreateWithCleanup (line 60)
+  In pctTryCreatePoolIfNecessary (line 23)
+  In distcomp.remoteparfor.tryRemoteParfor
+  In parallel_function (line 433)] 
+[Warning: Variable 'autoaddclientpath' not found.] 
+[> In parallel.internal.cluster.FileSerializer>iLoadMat (line 283)
+  In parallel.internal.cluster.FileSerializer/getFields (line 100)
+  In parallel.internal.cluster.CJSSupport/getProperties (line 261)
+  In parallel.internal.cluster.CJSSupport/getJobProperties (line 472)
+  In parallel.internal.cluster.CJSJobMixin/hGetProperty (line 75)
+  In parallel.Job/preSubmit (line 540)
+  In parallel.Job/submit (line 347)
+  In parallel.internal.pool.InteractiveClient/start (line 339)
+  In parallel.Pool>iStartClient (line 772)
+  In parallel.Pool.hBuildPool (line 586)
+  In parallel.internal.pool.doParpool (line 18)
+  In parpool (line 98)
+  In parallel.internal.pool.PoolArrayManager.getOrAutoCreateWithCleanup (line 60)
+  In pctTryCreatePoolIfNecessary (line 23)
+  In distcomp.remoteparfor.tryRemoteParfor
+  In parallel_function (line 433)] 
+[Warning: Variable 'autoaddclientpath' not found.] 
+[> In parallel.internal.cluster.FileSerializer>iLoadMat (line 283)
+  In parallel.internal.cluster.FileSerializer/getFields (line 100)
+  In parallel.internal.cluster.CJSSupport/getProperties (line 281)
+  In parallel.internal.cluster.CJSSupport/getJobProperties (line 472)
+  In parallel.internal.cluster.CJSJobMixin/hGetProperty (line 75)
+  In parallel.Job/preSubmit (line 540)
+  In parallel.Job/submit (line 347)
+  In parallel.internal.pool.InteractiveClient/start (line 339)
+  In parallel.Pool>iStartClient (line 772)
+  In parallel.Pool.hBuildPool (line 586)
+  In parallel.internal.pool.doParpool (line 18)
+  In parpool (line 98)
+  In parallel.internal.pool.PoolArrayManager.getOrAutoCreateWithCleanup (line 60)
+  In pctTryCreatePoolIfNecessary (line 23)
+  In distcomp.remoteparfor.tryRemoteParfor
+  In parallel_function (line 433)] 
+[Warning: Variable 'autoaddclientpath' not found.] 
+[> In parallel.internal.cluster.FileSerializer>iLoadMat (line 283)
+  In parallel.internal.cluster.FileSerializer/getFields (line 100)
+  In parallel.internal.cluster.CJSSupport/getProperties (line 281)
+  In parallel.internal.cluster.CJSSupport/getJobProperties (line 472)
+  In parallel.internal.cluster.CJSJobMixin/hGetProperty (line 75)
+  In parallel.Job/preSubmit (line 540)
+  In parallel.Job/submit (line 347)
+  In parallel.internal.pool.InteractiveClient/start (line 339)
+  In parallel.Pool>iStartClient (line 772)
+  In parallel.Pool.hBuildPool (line 586)
+  In parallel.internal.pool.doParpool (line 18)
+  In parpool (line 98)
+  In parallel.internal.pool.PoolArrayManager.getOrAutoCreateWithCleanup (line 60)
+  In pctTryCreatePoolIfNecessary (line 23)
+  In distcomp.remoteparfor.tryRemoteParfor
+  In parallel_function (line 433)] 
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 8 workers.
+>> >> >> Run Second_pass_go_local 31
+>> {Undefined function or variable 'Second_pass_go_local'.
+} 
+>> >> >> >> Run Launcher 31
+>> >> >> >> Get best Param p 31
+>> >> >> Parallel pool using the 'local' profile is shutting down.
+>> >> >>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+Thu Oct  3 17:20:35 CEST 2019
+[34m--- Analysis completed ---[0m

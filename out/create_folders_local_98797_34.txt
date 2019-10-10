@@ -1,0 +1,8 @@
+SLURM_JOBID:  98797
+SLURM_ARRAY_JOB_ID:  98797
+SLURM_ARRAY_TASK_ID:  34
+Thu Sep 26 09:39:11 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/create_fol_loc(34).m
+/var/spool/slurmd/lmb022/job98797/slurm_script: line 23: syntax error near unexpected token `('
+/var/spool/slurmd/lmb022/job98797/slurm_script: line 23: `matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/create_fol_loc(${SLURM_ARRAY_TASK_ID}).m'

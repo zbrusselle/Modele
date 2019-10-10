@@ -1,0 +1,58 @@
+clear all
+close all
+
+cond = {'P', 'NP'};
+validity = {'Valid', 'Invalid'};
+
+%% First pass go
+for pIdx = [17 19 20 22 24 25 28 30 32 33 34] % n subjects
+    for idxCond = 1:length(cond)
+        for iVal = 1:length(validity)
+            if ~exist(['D:\Scripts\Zoe_Scripts_MixedElectrodes\Modele_Nicolas\fit\p' num2str(pIdx) 'cond_' cond{idxCond} '_' validity{iVal}], 'dir')
+                mkdir(['D:\Scripts\Zoe_Scripts_MixedElectrodes\Modele_Nicolas\fit\p' num2str(pIdx) 'cond_' cond{idxCond} '_' validity{iVal}])
+            end
+            if ~exist(['D:\Scripts\Zoe_Scripts_MixedElectrodes\Modele_Nicolas\fit\p' num2str(pIdx) 'cond_' cond{idxCond} '_' validity{iVal} '\res'], 'dir')
+                mkdir(['D:\Scripts\Zoe_Scripts_MixedElectrodes\Modele_Nicolas\fit\p' num2str(pIdx) 'cond_' cond{idxCond} '_' validity{iVal} '\res'])
+            end
+
+            First_pass_go_local(['p' num2str(pIdx) '_cond' cond{idxCond} '_' validity{iVal}])
+            cd(pwd)   
+        end
+    end
+end
+
+disp('Run Launchers');
+
+%% Run every created launcher
+for pIdx = [17 19 20 22 24 25 28 30 32 33 34] % n subjects
+    for idxCond = 1:length(cond)
+        for iVal = 1:length(validity)
+            for i=1:50
+                run(['D:\Scripts\Zoe_Scripts_MixedElectrodes\Modele_Nicolas\fit\p' num2str(pIdx) 'cond_' cond{idxCond} '_' validity{iVal} '\res\launcher' num2str(i) '.m'])
+            end
+        end
+    end
+end
+
+%% Second pass go
+for pIdx = [17 19 20 22 24 25 28 30 32 33 34] % n subjects
+    for idxCond = 1:length(cond)
+        for iVal = 1:length(validity)
+            Second_pass_go_local(['p' num2str(pIdx) '_cond' cond{idxCond} '_' validity{iVal}])
+            cd(pwd)   
+        end
+    end
+end
+
+
+% for t = 1 : 24 % n subjects
+%     
+%     mkdir(['/Users/nicolas/ownCloud/model_PPN/cluster/subj' num2str(t)])
+%     cd(['/Users/nicolas/ownCloud/model_PPN/cluster/subj' num2str(t)])
+%     mkdir res
+%     !cp /Users/nicolas/ownCloud/model_PPN/First_pass_go_local.m ./
+%     !cp /Users/nicolas/ownCloud/model_PPN/Race_model_go.m ./
+%     !cp /Users/nicolas/ownCloud/model_PPN/stat_model_go.m ./
+%     First_pass_go_local(['subj' num2str(t)])
+%     cd ..    
+% end

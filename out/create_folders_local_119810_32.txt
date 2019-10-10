@@ -1,0 +1,800 @@
+SLURM_JOBID:  119822
+SLURM_ARRAY_JOB_ID:  119810
+SLURM_ARRAY_TASK_ID:  32
+Thu Oct  3 09:34:57 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/calc_best_param_model.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> [Warning: patID:32] 
+>> >> >> >> >> >> >> >> >> >> >> >> Run Launcher 32
+>> >> >> >> Run Second_pass_go_local 32
+>> [Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher1.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher10.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher11.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher12.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher13.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher14.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher15.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher16.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher17.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher18.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher19.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher2.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher20.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher21.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher22.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher23.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher24.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher25.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher26.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher27.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher28.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher29.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher3.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher30.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher31.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher32.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher33.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher34.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher35.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher36.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher37.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher38.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher39.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher4.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher40.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher41.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher42.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher43.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher44.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher45.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher46.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher47.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher48.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher49.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher5.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher50.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher6.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher7.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher8.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Valid/res/launcher9.m>@(input)stat_model_go(input,'p32_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher1.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher10.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher11.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher12.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher13.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher14.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher15.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher16.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher17.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher18.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher19.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher2.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher20.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher21.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher22.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher23.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher24.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher25.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher26.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher27.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher28.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher29.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher3.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher30.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher31.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher32.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher33.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher34.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher35.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher36.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher37.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher38.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher39.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher4.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher40.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher41.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher42.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher43.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher44.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher45.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher46.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher47.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher48.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher49.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher5.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher50.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher6.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher7.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher8.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condP_Invalid/res/launcher9.m>@(input)stat_model_go(input,'p32_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher1.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher10.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher11.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher12.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher13.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher14.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher15.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher16.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher17.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher18.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher19.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher2.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher20.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher21.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher22.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher23.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher24.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher25.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher26.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher27.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher28.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher29.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher3.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher30.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher31.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher32.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher33.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher34.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher35.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher36.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher37.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher38.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher39.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher4.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher40.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher41.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher42.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher43.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher44.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher45.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher46.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher47.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher48.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher49.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher5.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher50.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher6.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher7.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher8.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Valid/res/launcher9.m>@(input)stat_model_go(input,'p32_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher1.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher10.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher11.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher12.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher13.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher14.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher15.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher16.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher17.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher18.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher19.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher2.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher20.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher21.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher22.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher23.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher24.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher25.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher26.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher27.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher28.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher29.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher3.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher30.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher31.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher32.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher33.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher34.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher35.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher36.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher37.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher38.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher39.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher4.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher40.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher41.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher42.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher43.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher44.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher45.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher46.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher47.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher48.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher49.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher5.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher50.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher6.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher7.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher8.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p32_condNP_Invalid/res/launcher9.m>@(input)stat_model_go(input,'p32_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+>> >> >> >> Run Launcher 32
+>> RUN p32_condNP_Valid launcher_2_109
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_110
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_111
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_112
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_113
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_114
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_115
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_116
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_117
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_118
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_119
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_120
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_121
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_122
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_123
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_124
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_125
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_126
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_127
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_128
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_129
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_130
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_131
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_132
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_133
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_134
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_135
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_136
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_137
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_138
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_139
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_140
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_141
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_142
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_143
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_144
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_145
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_146
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_147
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_148
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_149
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_150
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_151
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_152
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_153
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_154
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_155
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_156
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_157
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_158
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_159
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_160
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_161
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_162
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_163
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_164
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_165
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_166
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_167
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_168
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_169
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_170
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_171
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_172
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_173
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_174
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_175
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_176
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_177
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_178
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_179
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_180
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_181
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_182
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_183
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_184
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_185
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_186
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_187
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_188
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_189
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_190
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_191
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_192
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_193
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_194
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_195
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_196
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_197
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p32_condNP_Valid launcher_2_198
+slurmstepd: error: *** JOB 119822 ON lmb022 CANCELLED AT 2019-10-03T11:16:59 ***

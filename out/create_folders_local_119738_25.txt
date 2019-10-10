@@ -1,0 +1,36 @@
+SLURM_JOBID:  119746
+SLURM_ARRAY_JOB_ID:  119738
+SLURM_ARRAY_TASK_ID:  25
+Wed Oct  2 19:43:20 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/calc_best_param_model.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> [Warning: patID:25] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> Run Launcher 25
+>> RUN p25_condNP_Invalid launcher3
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p25_condNP_Invalid launcher4
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p25_condNP_Invalid launcher5
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p25_condNP_Invalid launcher6
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p25_condNP_Invalid launcher7
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p25_condNP_Invalid launcher8
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p25_condNP_Invalid launcher9
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p25_condNP_Invalid launcher10
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p25_condNP_Invalid launcher11
+slurmstepd: error: *** JOB 119746 ON lmb027 CANCELLED AT 2019-10-03T09:06:50 ***

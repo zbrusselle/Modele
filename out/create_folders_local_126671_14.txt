@@ -1,0 +1,26 @@
+SLURM_JOBID:  126673
+SLURM_ARRAY_JOB_ID:  126671
+SLURM_ARRAY_TASK_ID:  14
+Mon Oct  7 11:04:36 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/calc_best_param_model.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> [Warning: patID:14] 
+>> >> >> >> >> >> >> {Undefined function or variable 'First_pass_go_local'.
+} 
+>> >> >> >> >> Run Launcher 14
+>> >> >> >> Run Second_pass_go_local 14
+>> {Undefined function or variable 'Second_pass_go_local'.
+} 
+>> >> >> >> Run Launcher 14
+>> RUN p14_condNP_Invalid launcher_2_11
+slurmstepd: error: *** JOB 126673 ON lmb030 CANCELLED AT 2019-10-07T14:21:03 ***

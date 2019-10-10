@@ -1,0 +1,20 @@
+SLURM_JOBID:  130846
+SLURM_ARRAY_JOB_ID:  129978
+SLURM_ARRAY_TASK_ID:  20
+Tue Oct  8 15:13:06 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/calc_best_param_model.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> [Warning: patID:20] 
+>> >> >> >> >> >> >> >> >> >> >> >> Run Launcher 20
+>> RUN p20_condNP_Invalid launcher11
+slurmstepd: error: *** JOB 130846 ON lmb028 CANCELLED AT 2019-10-09T11:01:31 ***

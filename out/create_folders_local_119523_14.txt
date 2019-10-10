@@ -1,0 +1,856 @@
+SLURM_JOBID:  119525
+SLURM_ARRAY_JOB_ID:  119523
+SLURM_ARRAY_TASK_ID:  14
+Wed Oct  2 16:40:06 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/calc_best_param_model.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> [Warning: patID:14] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> Run Launcher 14
+>> RUN p14_condNP_Valid launcher31
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher32
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher33
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher34
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher35
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher36
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher37
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher38
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher39
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher40
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher41
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher42
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher43
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher44
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher45
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher46
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher47
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher48
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher49
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Valid launcher50
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher1
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher2
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher3
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher4
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher5
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher6
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher7
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher8
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher9
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher10
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher11
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher12
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher13
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher14
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher15
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher16
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher17
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher18
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher19
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher20
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher21
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher22
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher23
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher24
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher25
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher26
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher27
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher28
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher29
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher30
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher31
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher32
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher33
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher34
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher35
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher36
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher37
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher38
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher39
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher40
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher41
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher42
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher43
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher44
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher45
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher46
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher47
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher48
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher49
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condNP_Invalid launcher50
+Optimization terminated: mesh size less than options.MeshTolerance.
+>> >> >> Run Second_pass_go_local 14
+>> [Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher1.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher10.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher11.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher12.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher13.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher14.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher15.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher16.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher17.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher18.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher19.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher2.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher20.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher21.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher22.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher23.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher24.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher25.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher26.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher27.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher28.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher29.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher3.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher30.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher31.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher32.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher33.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher34.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher35.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher36.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher37.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher38.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher39.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher4.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher40.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher41.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher42.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher43.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher44.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher45.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher46.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher47.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher48.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher49.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher5.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher50.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher6.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher7.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher8.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Valid/res/launcher9.m>@(input)stat_model_go(input,'p14_condP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher1.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher10.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher11.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher12.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher13.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher14.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher15.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher16.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher17.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher18.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher19.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher2.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher20.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher21.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher22.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher23.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher24.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher25.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher26.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher27.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher28.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher29.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher3.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher30.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher31.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher32.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher33.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher34.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher35.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher36.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher37.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher38.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher39.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher4.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher40.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher41.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher42.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher43.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher44.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher45.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher46.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher47.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher48.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher49.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher5.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher50.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher6.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher7.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher8.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condP_Invalid/res/launcher9.m>@(input)stat_model_go(input,'p14_condP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher1.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher10.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher11.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher12.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher13.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher14.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher15.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher16.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher17.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher18.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher19.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher2.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher20.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher21.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher22.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher23.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher24.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher25.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher26.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher27.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher28.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher29.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher3.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher30.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher31.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher32.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher33.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher34.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher35.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher36.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher37.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher38.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher39.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher4.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher40.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher41.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher42.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher43.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher44.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher45.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher46.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher47.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher48.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher49.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher5.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher50.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher6.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher7.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher8.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Valid/res/launcher9.m>@(input)stat_model_go(input,'p14_condNP_Valid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher1.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher10.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher11.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher12.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher13.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher14.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher15.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher16.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher17.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher18.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher19.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher2.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher20.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher21.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher22.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher23.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher24.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher25.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher26.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher27.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher28.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher29.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher3.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher30.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher31.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher32.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher33.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher34.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher35.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher36.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher37.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher38.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher39.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher4.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher40.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher41.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher42.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher43.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher44.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher45.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher46.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher47.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher48.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher49.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher5.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher50.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher6.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher7.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher8.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+[Warning: Could not find appropriate function on path loading function handle
+/network/lustre/iss01/home/zoe.brusselle/fit/p14_condNP_Invalid/res/launcher9.m>@(input)stat_model_go(input,'p14_condNP_Invalid')] 
+[> In Second_pass_go_local (line 13)] 
+>> >> >> >> Run Launcher 14
+>> RUN p14_condP_Valid launcher_2_1
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_2
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_3
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_4
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_5
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_6
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_7
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_8
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_9
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_10
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_11
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_12
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_13
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_14
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_15
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_16
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_17
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_18
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_19
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_20
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_21
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_22
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_23
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_24
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_25
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_26
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_27
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_28
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_29
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_30
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_31
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_32
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_33
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_34
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_35
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_36
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_37
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_38
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_39
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_40
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_41
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_42
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_43
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_44
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_45
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_46
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_47
+slurmstepd: error: *** JOB 119525 ON lmb030 CANCELLED AT 2019-10-02T19:43:03 ***
+Optimization terminated: mesh size less than options.MeshTolerance.
+RUN p14_condP_Valid launcher_2_48

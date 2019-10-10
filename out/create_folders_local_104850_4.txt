@@ -1,0 +1,22 @@
+SLURM_JOBID:  104854
+SLURM_ARRAY_JOB_ID:  104850
+SLURM_ARRAY_TASK_ID:  4
+Mon Sep 30 18:34:14 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/create_fol_loc.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> Run Launcher 4
+>> >> >> Run Second_pass_go_local 4
+>> >> >> >> Run Launcher 4
+>> >> >> Get best Param p 4
+>> >> >> >> Mon Sep 30 18:34:25 CEST 2019
+[34m--- Analysis completed ---[0m

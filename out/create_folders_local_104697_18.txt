@@ -1,0 +1,19 @@
+SLURM_JOBID:  104702
+SLURM_ARRAY_JOB_ID:  104697
+SLURM_ARRAY_TASK_ID:  18
+Mon Sep 30 09:28:20 CEST 2019
+[34m--- Run analysis ---[0m
+matlab -nojvm -nodesktop -softwareopengl -nosplash -nodisplay < /network/lustre/iss01/home/zoe.brusselle/create_fol_loc.m
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Run Launcher 1
+RUN p1_condNP_Invalid launcher26
+slurmstepd: error: *** JOB 104702 ON lmb033 CANCELLED AT 2019-09-30T18:22:33 ***
